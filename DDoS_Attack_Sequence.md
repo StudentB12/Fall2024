@@ -1,3 +1,5 @@
+```mermaid
+
 sequenceDiagram
 box darkred Bad Guys
 participant Attacker
@@ -15,3 +17,5 @@ BotNet -x Firewall: Uses polymorphic malware to change its appearance and get pa
 Attacker ->> BotNet: Creates commands to <br>send to WebServer
 BotNet ->> WebServer: Floods with a bunch of traffic<br>to prevent others from access
 Note left of WebServer: Can cause it to crash
+
+```
