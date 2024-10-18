@@ -18,3 +18,9 @@ I still drive it and it works perfectly fine. _Though_ it is not the most beauti
 
 ## Free time  
 With my free time I really like to watch movies and play video games. Right now because of school and work I dont have as much free time like I used to and I am now adjusting to it. My favorite game is **_Ghost of Tsushima_** 
+
+
+# File Links
+[Hello World.html](https://studentb12.github.io/Fall2024/hello_world_Jordan.html)
+
+[index.html](https://studentb12.github.io/Fall2024/index.html)
